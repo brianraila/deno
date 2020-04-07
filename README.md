@@ -7,3 +7,6 @@ To use a different version of Deno, change the following line in the Dockerfile
     ARG DENO_VERSION=v0.36.0
     
 And specify your desired Deno Version
+
+### Github Actions (CI/CD)
+A [workflow](https://github.com/brianraila/deno-docker/tree/master/.github/workflows) file has been added to test and push this image to Github Packages.
