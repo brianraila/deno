@@ -1,5 +1,5 @@
 # Deno Docker
-A sample Dockerfile to use with [Deno](https://deno.land) applications.
+A Docker Image to use with [Deno](https://deno.land) applications.
 
 ### Deno Versions
 To use a different version of Deno, change the following line in the Dockerfile
