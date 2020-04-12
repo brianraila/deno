@@ -23,6 +23,3 @@ ENV DENO_DIR /deno-dir/
 
 ENTRYPOINT ["deno"]
 
-COPY server-01.ts .
-
-CMD [ "-A", "server-01.ts" ]
