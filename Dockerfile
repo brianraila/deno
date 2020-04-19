@@ -1,6 +1,6 @@
 FROM frolvlad/alpine-glibc:alpine-3.11_glibc-2.31
 
-ENV DENO_VERSION=0.40.0
+ENV DENO_VERSION=0.41.0
 
 EXPOSE 8080
 
